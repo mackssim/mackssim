@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mackssim
 - 👀 I’m interested in the easiest way to introduce yourself on GitHub is by creating a README in a repository about you! You can start here:
 - 🌱 I’m currently learning angular, nodeJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me it's easy, just send an email to the following address maxime@intuitisoft.com
 
 <!---
 mackssim/mackssim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
